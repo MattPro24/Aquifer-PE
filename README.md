@@ -1,7 +1,7 @@
 # Aquifer PE
 Aquifer PE is a freelance platform specialized in civil engineering and the construction industry. Aquifer PE facilitates the optimization of professional human resource utilization, as well as assisting companies find specialized professionals that best fit your project needs while unlock engineers earning potential with compensation per project delivery.
 
-:muscle: This repository consists of my contribution to the build for Aquifer PE.
+:fire: This repository consists of my contribution to the build for Aquifer PE.
 
 
 :computer: The Languages I used are listed below:
